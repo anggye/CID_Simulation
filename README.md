@@ -6,10 +6,7 @@ A web-based interface to simulate the CID model on user-uploaded graphs.
 ## Installation
 
 ### Prerequisites
-1. Clone the repository `git clone https://github.com/sawmill811/BTP.git`
-2. Create a virtual environment `python -m venv venv`
-3. Activate the virtual environment `venv\Scripts\activate`
-4. Install all dependencies `pip install -r requirements.txt`
+Install all dependencies `pip install -r requirements.txt`
 
 ### Install Redis
 1. Go to [this link](https://redis.io/docs/install/install-redis/install-redis-on-windows/) and follow all steps to install Redis on your system.
