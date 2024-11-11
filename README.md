@@ -32,4 +32,7 @@ Note: for each of the following steps, you will need to open a new terminal wind
 5. To close the application, press `Ctrl+C` in the terminal window where the Flask server is running.
 6. Close the terminal window where the Celery worker is running.
 
+Note : This project will be presented on 8th International Conference on Data Science and Management of Data 
+https://cods-comad.in/
+
 
