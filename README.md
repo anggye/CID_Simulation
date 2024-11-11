@@ -1,7 +1,7 @@
 # Information spread in a social network
 
 ## About
-ToDo: Add a description of the project.
+A web-based interface to simulate the CID model on user-uploaded graphs.
 
 ## Installation
 
